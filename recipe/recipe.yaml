@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.1"
+  version: "0.2.2"
 
 package:
   name: refleak
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/refleak/refleak-${{ version }}.tar.gz
-  sha256: 8dd9585634375b0c0e1e9be12f6cf699b97f140c9a615c5c75b4fdb2305e0849
+  sha256: c9cfd5054e1703edf4489fb0418aee930cb6f0eeb4f64fb81a6a64772d1841c2
 
 build:
   number: 0
